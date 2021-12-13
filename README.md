@@ -8,7 +8,8 @@ From their website:
 The formatted data contains the following columns:
 * `gene` : HGNC symbol (ex: `INS` for insulin)
 * `initial_alias` : symbol fed into https://biit.cs.ut.ee/gprofiler/convert for automatic conversion to Ensembl IDs
-* `alias_concordance` : TRUE if the values for `gene` and `initial_alias` are identical. Two (2) genes had synonyms and were mapped as follows: `FAM63A`	-> `MINDY1` and `PTRF`	-> `CAVIN1`
+* `alias_concordance` : TRUE if the values for `gene` and `initial_alias` are identical. 
+  *  Two (2) genes had synonyms and were mapped as follows: `FAM63A`	-> `MINDY1` and `PTRF`	-> `CAVIN1`
 * `ensembl_id` : the Ensembl ID corresponding to `initial_alias` 
 
 For `combined_prediction`, `combined_genetic_evidence`, `combined_regulatory_evidence`, and `combined_perturbation_evidence`, please refer to the [original documentation](http://3.208.176.209/sites/default/files/documents/effector_predictions_documentation.pdf).
