@@ -1,4 +1,4 @@
-# T2D_gene_database
+# T2D HuGeAMP database
 Data from [Human Genetics Knowledge Portal's type II diabetes (T2D) dataset](https://md.hugeamp.org/method.html?trait=t2d&dataset=mccarthy) formatted into a .tsv file for offline usage.
 
 From their website:
