@@ -21,4 +21,7 @@ To reference the webpage this was scraped from, see the cached .html file which 
 Please reach out or submit a pull request if there is an issue with the data!
 
 
-Data scraped and formatted by [Caleb Grenko](mailto:cal.grenko@nih.gov). 
+Data scraped and formatted by [Caleb Grenko](mailto:cal.grenko@nih.gov).  
+
+### Disclaimer
+This is <ins>not</ins> an official repository for HuGeAMP. It is not endorsed by the original publishers (Anubha Mahajan and Mark McCarthy), and the user accepts all responsibility for verifying the accuracy and integrity of the data. All rights belong to the original authors and not the authors of this repository. 
