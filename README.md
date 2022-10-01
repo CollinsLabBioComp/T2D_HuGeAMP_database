@@ -23,7 +23,6 @@ Please reach out or submit a pull request if there is an issue with the data!
 
 Data scraped and formatted by [Caleb Grenko](mailto:cal.grenko@nih.gov).  
 
-# T2D HuGeAMP database
 `T2D_kp_effector_genes.txt`: Data from [Human Genetics Knowledge Portal's type II diabetes (T2D) dataset](https://t2d.hugeamp.org/method.html?trait=t2d&dataset=egls) formatted into a .txt file for use. Note, this is a list different from the above one. The list was compiled from the web site by Narisu. 
 
 From their website:
